@@ -1,0 +1,45 @@
+
+App: Hoplite: https://play.google.com/store/apps/details?id=com.magmafortress.hoplite&hl=en
+
+Features for test case
+I) Movement: User can move from one hexagon tile to an adjacent one while being able to understand the risks of his decision(s).
+
+As a user, I can tap on an enemy sprite to display their attack range & avoid future attacks.
+
+As a user, I can press the "?" button to gain further information about map locations and enemies
+
+As a user, I can  move to a tile that might put me in danger, but will cause  enemies to change their position, thereby changing how I will move in the next turn.
+
+As a user, I can toggle "jump" or "throw spear" to see how a successful engagement might change my movement in the next turn.
+
+As a user, I can see the current Stage ("Depth" in Hoplite) to understand how far I have gone into my game.
+
+2) User can choose how to engage enemies. 
+
+As a user, I can attack an adjacent (or to be adjacent in the current turn) with my spear
+
+As a user, I can throw my spear at an enemy that is out of melee range 
+
+As a user, and depending on my position, I can shield bash an enemy into a pit of lava
+
+As a user, I can shield bash a bomb either back at the thrower, at another group of nearby enemies, or simply away from my current position
+
+As a user, I can use my jump ability to get out of range of nearby enemies 
+
+As a user, I can potentially move away from nearby enemies by moving to an adjacent hex-tile.
+
+
+
+3) User can access help and game information
+
+As a user, I can press a button in the upper right corner to bring up a game menu 
+
+As a user, I can toggle the same menu dialog by pressing the "back" button
+
+As a user, I can navigate  this menu to see my hoplite's powerups
+
+As a user, I can navigate this menu to see my current score
+
+As a user, I can navigate to "conduct" which displays the player's status
+
+As a user, I can access "Fat finger mode" to accomodate beefier fingers for selecting the right tile for non-donald trump hand usages. 

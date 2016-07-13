@@ -1,0 +1,28 @@
+
+App: Hoplite: https://play.google.com/store/apps/details?id=com.magmafortress.hoplite&hl=en
+
+Features for test case
+I) Movement: User can move from one hexagon tile to an adjacent one while being able to understand the risks of his decision.
+
+As a user, I can tap on an enemy sprite to display their attack range & avoid future attacks.
+
+As a user, I can press the "?" button to gain further information about map locations and enemies
+
+As a user, I can  move to a tile that might put me in danger, but will cause  enemies to change their position, thereby changing how I will move in the next turn.
+
+As a user, I can toggle "jump" or "throw spear" to see how a successful engagement might change my movement in the next turn.
+
+As a user, I can see the current Stage ("Depth" in Hoplite) to understnad how far I have gone into my game.
+
+2) User can choose how to engage enemies. 
+
+User can engage enemies at distance & at close range
+
+As a user, I can attack an adjacent (or to be adjacent in the current turn) with my spear
+
+As a user, I can throw my spear at an enemy that is out of melee range 
+
+As a user, and depending on my position, I can shield bash an enemy into a pit of lava
+
+As a user, I can shield bash a bomb either back at the thrower, or at another group of nearby enemies
+
